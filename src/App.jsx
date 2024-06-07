@@ -2,6 +2,7 @@ import styles from './App.module.css'
 import { Navbar } from './components/Navbar/Navbar'
 import { Avatar } from './components/Avatar/Avatar'
 import { About } from './components/About/About'
+import { Resume } from './components/Resume/Resume'
 
 function App() {
   
@@ -11,6 +12,7 @@ function App() {
       <Navbar />
       <Avatar />
       <About />
+      <Resume />
     </div>
   )
 }
