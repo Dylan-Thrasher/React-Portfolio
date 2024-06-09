@@ -4,6 +4,7 @@ import { Avatar } from './components/Avatar/Avatar'
 import { About } from './components/About/About'
 import { Resume } from './components/Resume/Resume'
 import { Portfolio } from './components/Portfolio/Portfolio'
+import { Footer } from './components/Footer/Footer'
 
 function App() {
   
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Resume />
       <Portfolio />
+      <Footer />
     </div>
   )
 }
