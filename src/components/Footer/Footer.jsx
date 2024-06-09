@@ -4,10 +4,10 @@ import {getImageUrl} from '../../utils'
 
 export const Footer = () => {
     return (
-        <footer>
-            <div>
-                <h2 id="footer" className={styles.container}>Contact</h2>
-                <p className={styles.text}>Feel free to reach out!</p>
+        <footer className={styles.container}>
+            <div className={styles.text}>
+                <h2 id="footer" >Contact</h2>
+                <p>Feel free to reach out!</p>
             </div>
             <ul className={styles.links}>
                 <li className={styles.link}>
