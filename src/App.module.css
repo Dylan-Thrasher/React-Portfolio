@@ -4,4 +4,6 @@
     background-color: var(--color-bg);
     width: 100%;
     height: 100%;
+    /* hides anything that would overflow off the page, preventing creating extra whitespace */
+    overflow: hidden;
 }

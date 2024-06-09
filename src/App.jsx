@@ -3,6 +3,7 @@ import { Navbar } from './components/Navbar/Navbar'
 import { Avatar } from './components/Avatar/Avatar'
 import { About } from './components/About/About'
 import { Resume } from './components/Resume/Resume'
+import { Portfolio } from './components/Portfolio/Portfolio'
 
 function App() {
   
@@ -13,6 +14,7 @@ function App() {
       <Avatar />
       <About />
       <Resume />
+      <Portfolio />
     </div>
   )
 }
