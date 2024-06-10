@@ -1,50 +1,50 @@
 [
   {
-    "title": "Project A",
+    "title": "Plant Parenthood",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to show capability of storing and calling information on plants from database and API.",
+    "skills": ["Express", "Node"],
+    "demo": "https://plant-parenthood-8msi.onrender.com/",
+    "source": "https://github.com/Dylan-Thrasher/Plant-Parenthood"
   },
   {
-    "title": "Project B",
+    "title": "Text Editor",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project created to demonstrate usability while offline or downloading.",
+    "skills": ["Express", "Node", "IndexedDB"],
+    "demo": "https://text-editor-jw3w.onrender.com",
+    "source": "https://github.com/Dylan-Thrasher/Text_EditorLinks to an external site."
   },
   {
-    "title": "Project C",
+    "title": "Note Taker",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to create and save notes locally with express.",
+    "skills": ["API", "Node"],
+    "demo": "https://note-taker-h8ex.onrender.com",
+    "source": "https://github.com/Dylan-Thrasher/Note-Taker"
   },
   {
-    "title": "Project D",
+    "title": "Jeans",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to help users choose color schemes.",
+    "skills": ["JavaScript", "Node"],
+    "demo": "https://frenzie24.github.io/jeans/",
+    "source": "https://github.com/frenzie24/jeans"
   },
   {
-    "title": "Project E",
+    "title": "My First Blog",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to store and read blog data.",
+    "skills": ["JavaScript", "Node"],
+    "demo": "https://dylan-thrasher.github.io/My_First_Blog/",
+    "source": "https://github.com/Dylan-Thrasher/My_First_Blog/"
   },
   {
-    "title": "Project F",
+    "title": "Employee Payroll Tracker",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to help users keep track of general payroll information for their employees.",
+    "skills": ["Node", "JavaScript"],
+    "demo": "https://dylan-thrasher.github.io/Payroll-Tracker/",
+    "source": "https://github.com/Dylan-Thrasher/Payroll-Tracker"
   }
 ]
