@@ -12,6 +12,7 @@
   In order to install, please make sure you have node package manager installed. Upon opening the cloned repository, run npm install.
   ## Usage
   In order to use the project, either run npm dev from the cloned repository in VS Code, or visit the website [here](https://main--dylan-thrasher-react-portfolio.netlify.app/). 
+  ![Deployed Website](./assets/Screenshot/screenshot.PNG)
   ## License
   MIT
   ## Contributing
