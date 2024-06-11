@@ -7,6 +7,7 @@ export const Portfolio = () => {
     return <section className={styles.container} id="portfolio">
         <h2 className={styles.title}>Projects</h2>
         <div className={styles.projects}>
+            {/* the below generates portfolio project cards based on the json */}
             {
                 projects.map((project, id) => {
                     return (

@@ -62,6 +62,8 @@
     font-size: 25px;
 }
 
+/* making the page responsive for mobile */
+
 @media screen and (max-width: 830px) {
     .container {
         background-color: transparent;

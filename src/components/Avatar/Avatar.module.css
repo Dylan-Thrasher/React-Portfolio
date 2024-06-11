@@ -53,6 +53,7 @@
 
     animation-name: floating;
     animation-duration: 3s;
+    /* makes the animation continue indefinitely */
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
 }
@@ -97,6 +98,7 @@
     z-index: 0;
 }
 
+/* Updating the site for mobile view */
 @media screen and (max-width: 830px) {
     .container {
         flex-direction: column-reverse;

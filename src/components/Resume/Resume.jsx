@@ -20,6 +20,7 @@ export const Resume = () => {
                      })   
                         }</div>
                     <ul className={styles.history}>
+                        {/* the below generates history by what is provided in the json */}
                         {
                             history.map((historyItem, id) => {
                                 return <li key={id} className={styles.historyItem}>
