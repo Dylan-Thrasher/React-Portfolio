@@ -16,14 +16,14 @@
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
+    "role": "Team Leader",
+    "organisation": "Convergys",
     "startDate": "Apr, 2020",
     "endDate": "Jun, 2020",
     "experiences": [
       "Worked on component library",
       "Helped create UI components"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/Convergys.png"
   }
 ]
