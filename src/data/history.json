@@ -1,5 +1,13 @@
 [
   {
+    "role": "Full Stack Developer",
+    "organisation": "Self-employeed",
+    "startDate": "Jun, 2024",
+    "endDate": "Present",
+    "experiences": ["Reinforcing skills learned from bootcamp", "Creating additional projects for community use"],
+    "imageSrc": ""
+  },
+  {
     "role": "Full Stack Dev Student",
     "organisation": "UCF",
     "startDate": "Mar, 2024",
