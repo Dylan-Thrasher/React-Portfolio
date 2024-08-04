@@ -16,17 +16,17 @@
     "imageSrc": "history/ucf.png"
   },
   {
-    "role": "Elite Care Representative",
+    "roles": "Technical Support, Training Ambassador, Elite Care Representative",
     "organisation": "Verizon Connect",
-    "startDate": "Dec, 2019",
+    "startDate": "Jan, 2018",
     "endDate": "Mar, 2024",
     "experiences": ["Worked directly with application developers and customers for technical issues and improvements", "Tested and assisted in implementation of new systems with the company"],
     "imageSrc": "history/verizonConnect.png"
   },
   {
-    "role": "Team Leader",
+    "roles": "Customer support, Senior Support, Team Leader",
     "organisation": "Convergys",
-    "startDate": "Jun, 2016",
+    "startDate": "Jun, 2014",
     "endDate": "Oct, 2017",
     "experiences": [
       "Helped develop agents communication and technical skills",
