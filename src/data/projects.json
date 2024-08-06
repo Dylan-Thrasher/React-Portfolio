@@ -9,7 +9,7 @@
   },
   {
     "title": "Text Editor",
-    "imageSrc": "projects/textEditor.png",
+    "imageSrc": "projects/textEditor.PNG",
     "description": "This is a project created to demonstrate usability while offline or downloading.",
     "skills": ["Express", "Node", "IndexedDB"],
     "demo": "https://text-editor-jw3w.onrender.com",
