@@ -17,7 +17,7 @@
   },
   {
     "title": "Note Taker",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/noteTaker.PNG",
     "description": "This is a project made to create and save notes locally with express.",
     "skills": ["API", "Node"],
     "demo": "https://note-taker-h8ex.onrender.com",
