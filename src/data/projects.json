@@ -1,7 +1,7 @@
 [
   {
     "title": "Plant Parenthood",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/plantPage.png",
     "description": "This is a project made to show capability of storing and calling information on plants from database and API.",
     "skills": ["Express", "Node"],
     "demo": "https://plant-parenthood-8msi.onrender.com/",
