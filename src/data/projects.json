@@ -25,7 +25,7 @@
   },
   {
     "title": "Jeans",
-    "imageSrc": "projects/jeans.PNG",
+    "imageSrc": "projects/Jeans.PNG",
     "description": "This is a project made to help users choose color schemes.",
     "skills": ["JavaScript", "Node"],
     "demo": "https://frenzie24.github.io/jeans/",
