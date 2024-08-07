@@ -33,7 +33,7 @@
   },
   {
     "title": "My First Blog",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/firstBlog.PNG",
     "description": "This is a project made to store and read blog data.",
     "skills": ["JavaScript", "Node"],
     "demo": "https://dylan-thrasher.github.io/My_First_Blog/",
