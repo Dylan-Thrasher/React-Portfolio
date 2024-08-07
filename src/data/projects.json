@@ -41,7 +41,7 @@
   },
   {
     "title": "Employee Payroll Tracker",
-    "imageSrc": "projects/payrollTracker.png",
+    "imageSrc": "projects/payrollTracker.PNG",
     "description": "This is a project made to help users keep track of general payroll information for their employees.",
     "skills": ["Node", "JavaScript"],
     "demo": "https://dylan-thrasher.github.io/Payroll-Tracker/",
