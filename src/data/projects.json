@@ -10,7 +10,7 @@
   {
     "title": "Text Editor",
     "imageSrc": "projects/textEditor.PNG",
-    "description": "This is a project created to demonstrate usability while offline or downloading.",
+    "description": "This is a project created to demonstrate usability while offline or downloading for editing text.",
     "skills": ["Express", "Node", "IndexedDB"],
     "demo": "https://text-editor-jw3w.onrender.com",
     "source": "https://github.com/Dylan-Thrasher/Text_EditorLinks to an external site."
@@ -18,7 +18,7 @@
   {
     "title": "Note Taker",
     "imageSrc": "projects/noteTaker.PNG",
-    "description": "This is a project made to create and save notes locally with express.",
+    "description": "This is a project made to create and save notes locally with express so the user can access them later.",
     "skills": ["API", "Node"],
     "demo": "https://note-taker-h8ex.onrender.com",
     "source": "https://github.com/Dylan-Thrasher/Note-Taker"
@@ -26,7 +26,7 @@
   {
     "title": "Jeans",
     "imageSrc": "projects/Jeans.png",
-    "description": "This is a project made to help users choose color schemes.",
+    "description": "This is a project made to help users choose color schemes and vector graphics for designing their site.",
     "skills": ["JavaScript", "Node"],
     "demo": "https://frenzie24.github.io/jeans/",
     "source": "https://github.com/frenzie24/jeans"
@@ -34,7 +34,7 @@
   {
     "title": "My First Blog",
     "imageSrc": "projects/firstBlog.PNG",
-    "description": "This is a project made to store and read blog data.",
+    "description": "This is a project made to store and read blog data in a similar style to basic retro versions.",
     "skills": ["JavaScript", "Node"],
     "demo": "https://dylan-thrasher.github.io/My_First_Blog/",
     "source": "https://github.com/Dylan-Thrasher/My_First_Blog/"
