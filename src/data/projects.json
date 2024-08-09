@@ -10,7 +10,7 @@
   {
     "title": "Text Editor",
     "imageSrc": "projects/textEditor.PNG",
-    "description": "This is a project created to demonstrate usability while offline or downloading for editing text.",
+    "description": "This is a project created to demonstrate usability while offline or downloading.",
     "skills": ["Express", "Node", "IndexedDB"],
     "demo": "https://text-editor-jw3w.onrender.com",
     "source": "https://github.com/Dylan-Thrasher/Text_EditorLinks to an external site."
